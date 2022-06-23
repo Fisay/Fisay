@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Oluwafisayo Eyitayo
+- 👀 I’m interested in being a frontend developer.
+- 🌱 I’m currently learning on Zuri Programme as a frontEnd developer
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me on twitter https://twitter.com//EOluwafisayo
